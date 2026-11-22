@@ -36,6 +36,9 @@ Choose a skill by the result you need. Each name opens its complete instructions
 | Skill | Use it to |
 | --- | --- |
 | [review](skills/review/SKILL.md) | Review a diff or a bounded area of code and report concrete bugs, regressions and missing coverage. |
+| [sol-loop](skills/sol-loop/SKILL.md) | Run a bounded review loop with GPT Sol on explicit request. |
+| [council](skills/council/SKILL.md) | Collect independent feedback from three model providers on explicit request. |
+| [interface-recreation](skills/interface-recreation/SKILL.md) | Recreate and verify a UI against an authorized reference on explicit request. |
 | [security-audit](skills/security-audit/SKILL.md) | Review application source for access-control, data-handling and configuration risks and suggest defensive fixes. |
 | [web-qa](skills/web-qa/SKILL.md) | Exercise a user journey in a browser and document reproducible usability, layout or functional problems. |
 | [verify](skills/verify/SKILL.md) | Check whether a finished change satisfies the request using its diff, normal entry points and relevant tests. |
