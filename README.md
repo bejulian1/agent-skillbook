@@ -1,6 +1,6 @@
 # Agent Skillbook
 
-A collection of 24 Markdown skills for AI agents. Each folder teaches one task, from turning meeting notes into action items to tracing a failed CI run. Pick the skills you need and use them with a client that reads `SKILL.md`.
+A collection of 29 Markdown skills for AI agents. Each folder teaches one task, from turning meeting notes into action items to tracing a failed CI run. Pick the skills you need and use them with a client that reads `SKILL.md`.
 
 ## Pick a skill
 
@@ -12,7 +12,7 @@ A collection of 24 Markdown skills for AI agents. Each folder teaches one task, 
 | A slow operation with two implementations | [benchmark](skills/benchmark/SKILL.md) | Comparable timings, the spread between trials and a repeatable procedure |
 | A pull request with a red check | [ci-triage](skills/ci-triage/SKILL.md) | The failed step, the diagnostic that explains it and the next check |
 
-[Browse all 24 skills](CATALOG.md), including code review, browser QA, Excel, Word and PowerPoint.
+[Browse all 29 skills](CATALOG.md), including code review, browser QA, Excel, Word and PowerPoint.
 
 ## Try it with meeting notes
 

@@ -24,6 +24,8 @@ Choose a skill by the result you need. Each name opens its complete instructions
 | Skill | Use it to |
 | --- | --- |
 | [explore](skills/explore/SKILL.md) | Trace an unfamiliar codebase from its entry points to one working flow and identify how to run and test it. |
+| [handoff](skills/handoff/SKILL.md) | Delegate work and verification while keeping the main agent in a low-usage coordinator role. |
+| [performance-optimization](skills/performance-optimization/SKILL.md) | Diagnose a measured bottleneck and verify a targeted fix under comparable conditions. |
 | [plan-change](skills/plan-change/SKILL.md) | Plan a change that spans components or admits several designs, with concrete decisions and acceptance checks. |
 | [debug](skills/debug/SKILL.md) | Trace unexpected application behavior to its cause, apply a scoped fix and check the original failure. |
 | [refactor](skills/refactor/SKILL.md) | Restructure existing code while preserving its observable behavior and the interfaces its callers use. |
@@ -36,6 +38,9 @@ Choose a skill by the result you need. Each name opens its complete instructions
 | Skill | Use it to |
 | --- | --- |
 | [review](skills/review/SKILL.md) | Review a diff or a bounded area of code and report concrete bugs, regressions and missing coverage. |
+| [sol-loop](skills/sol-loop/SKILL.md) | Run a bounded review loop with GPT Sol on explicit request. |
+| [council](skills/council/SKILL.md) | Collect independent feedback from three model providers on explicit request. |
+| [interface-recreation](skills/interface-recreation/SKILL.md) | Recreate and verify a UI against an authorized reference on explicit request. |
 | [security-audit](skills/security-audit/SKILL.md) | Review application source for access-control, data-handling and configuration risks and suggest defensive fixes. |
 | [web-qa](skills/web-qa/SKILL.md) | Exercise a user journey in a browser and document reproducible usability, layout or functional problems. |
 | [verify](skills/verify/SKILL.md) | Check whether a finished change satisfies the request using its diff, normal entry points and relevant tests. |
