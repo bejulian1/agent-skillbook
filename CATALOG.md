@@ -24,6 +24,7 @@ Choose a skill by the result you need. Each name opens its complete instructions
 | Skill | Use it to |
 | --- | --- |
 | [explore](skills/explore/SKILL.md) | Trace an unfamiliar codebase from its entry points to one working flow and identify how to run and test it. |
+| [handoff](skills/handoff/SKILL.md) | Delegate work and verification while keeping the main agent in a low-usage coordinator role. |
 | [plan-change](skills/plan-change/SKILL.md) | Plan a change that spans components or admits several designs, with concrete decisions and acceptance checks. |
 | [debug](skills/debug/SKILL.md) | Trace unexpected application behavior to its cause, apply a scoped fix and check the original failure. |
 | [refactor](skills/refactor/SKILL.md) | Restructure existing code while preserving its observable behavior and the interfaces its callers use. |
